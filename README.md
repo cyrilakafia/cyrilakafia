@@ -1,6 +1,6 @@
 ### <p align="center"> Hi👋, I'm Cyril Akafia </p>
 
-
+I am a Biomedical Engineering student and an AI enthusiast
 
 <!--
 **cyrilakafia/cyrilakafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
