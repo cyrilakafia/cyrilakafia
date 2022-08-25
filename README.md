@@ -2,6 +2,10 @@
 
 **<p align="center"> I am a Biomedical Engineering student and an AI enthusiast </p>** 
 
+🔭 I’m currently working on project where I use machine learning to build QSAR model for drug discovery.
+🌱 I’m currently learning data analytics and machine learning
+⚡ I love football and greek mythology
+
 <!--
 **cyrilakafia/cyrilakafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
