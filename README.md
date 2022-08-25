@@ -1,4 +1,5 @@
-### Hi👋, I'm Cyril Akafia
+<p align="center"> ### Hi👋, I'm Cyril Akafia </p>
+
 
 
 <!--
