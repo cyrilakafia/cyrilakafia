@@ -3,6 +3,7 @@
 **<p align="center"> I am a Biomedical Engineering student and an AI enthusiast </p>** 
 
 🔭 I’m currently working on project where I use machine learning to build QSAR model for drug discovery. <br>
+📚 I'm currently taking courses in Data Analytics on Udacity, AI with Python on Udacity and Software Engineering with ALX
 🌱 I’m currently learning data analytics and machine learning <br>
 ⚡ I love football and greek mythology <br>
 
