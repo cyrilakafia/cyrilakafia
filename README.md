@@ -1,11 +1,11 @@
 ### <p align="center"> Hi👋, I'm Cyril Akafia </p>
 
-**<p align="center"> I am a Biomedical Engineering student and an AI enthusiast </p>** 
+**<p align="center"> Biomedical Engnineer | Junior Machine Learning Engineer | Bioinformatics Enthusiast </p>** 
 
-🔭 I’m currently working on project where I use machine learning to build QSAR model for drug discovery. <br>
-📚 I'm currently taking courses in Data Analytics on Udacity and AI with Python on Udacity
+🔭 I have worked on a project where I used machine learning to build QSAR model for drug discovery. <br>
+📚 I'm currently taking a course in AI with Python on Udacity
 🌱 I’m currently learning data analytics and machine learning <br>
-⚡ I love football and greek mythology <br>
+⚡ I love analysing football games <br>
 
 <!--
 **cyrilakafia/cyrilakafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
