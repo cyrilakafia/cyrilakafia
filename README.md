@@ -3,8 +3,8 @@
 **<p align="center"> Biomedical Engnineer | Junior Machine Learning Engineer | Bioinformatics Enthusiast </p>** 
 
 🔭 I have worked on a project where I used machine learning to build QSAR model for drug discovery. <br>
-🌱 I’m currently learning data analytics, machine learning and artificial intelligence <br>
-⚡ I love analysing football games <br>
+🌱 I’m currently learning data analytics, machine learning and artificial intelligence. <br>
+⚡ I love analysing football games. <br>
 
 <!--
 **cyrilakafia/cyrilakafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
