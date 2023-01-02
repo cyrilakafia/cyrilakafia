@@ -3,8 +3,7 @@
 **<p align="center"> Biomedical Engnineer | Junior Machine Learning Engineer | Bioinformatics Enthusiast </p>** 
 
 🔭 I have worked on a project where I used machine learning to build QSAR model for drug discovery. <br>
-📚 I'm currently taking a course in AI with Python on Udacity
-🌱 I’m currently learning data analytics and machine learning <br>
+🌱 I’m currently learning data analytics, machine learning and artificial intelligence <br>
 ⚡ I love analysing football games <br>
 
 <!--
