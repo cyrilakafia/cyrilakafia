@@ -3,7 +3,7 @@
 **<p align="center"> Biomedical Engnineer | Junior ML Engineer | Bioinformatics Enthusiast </p>** 
 
 🔭 I have worked on a project where I used machine learning to build QSAR model for drug discovery. <br>
-🌱 I’m currently learning data analytics, machine learning and artificial intelligence. <br>
+🌱 I’m currently learning data analytics, machine learning and artificial intelligence and german. <br>
 ⚡ I love analysing football games. <br>
 ⚡ My newest hobby is chess
 <!--
