@@ -1,6 +1,6 @@
 ### <p align="center"> Hi👋, I'm Cyril Akafia </p>
 
-**<p align="center"> Biomedical Engnineer | Junior ML Engineer | Bioinformatics Enthusiast </p>** 
+**<p align="center"> Biomedical Engnineer | Junior ML Engineer | Neuroscience Enthusiast </p>** 
 
 🔭 My current major project: Using machine learning to build QSAR model for drug discovery. <br>
 🌱 I’m currently learning data analytics, machine learning and artificial intelligence and german. <br>
