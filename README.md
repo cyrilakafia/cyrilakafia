@@ -2,10 +2,12 @@
 
 **<p align="center"> Biomedical Engnineer | Junior ML Engineer | Neuroscience Enthusiast </p>** 
 
-🔭 My current major project: Using machine learning to build QSAR model for drug discovery. <br>
-🌱 I’m currently learning data analytics, machine learning and artificial intelligence and german. <br>
-⚡ I love analysing football games. <br>
-⚡ My newest hobby is chess
+🔭 My current major project: Using machine learning to build QSAR application for drug discovery. <br>
+🌱 I’m passionate about machine learning, artificial intelligence and computational neuroscience. <br>
+👯 I’m looking to collaborate on computational neuroscience projects to analyse and decode neuronal data. Nbr>
+⚡ My newest hobby is chess <br>
+💬 Ask me about AI for Radiology in Ghana
+📫 How to reach me: [email](kwakucyril@gmail.com) | [phone](+233545991704) | [Linkedin](https://www.linkedin.com/in/cyril-akafia/)
 <!--
 **cyrilakafia/cyrilakafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
