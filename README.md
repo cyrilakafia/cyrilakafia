@@ -8,6 +8,10 @@
 ⚡ My newest hobby is chess <br>
 💬 Ask me about AI for Radiology in Ghana <br>
 📫 How to reach me: kwakucyril@gmail.com | [LinkedIn](https://www.linkedin.com/in/cyril-akafia/)
+
+**<p align='center'> News </p>**
+ 😄 New paper on computer vision, i.e., detection abnormalities with YOLO object detection model accepted to the Data-Centric Machine Learning Research (DMLR) Workshop of the 40th International Conference on Machine Learning (ICML) (https://arxiv.org/abs/2307.01767)[paper)
+
 <!--
 **cyrilakafia/cyrilakafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
