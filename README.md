@@ -11,6 +11,7 @@
 
 **<p align='center'> News </p>**
  😄 New [paper](https://arxiv.org/abs/2307.01767) detection abnormalities with YOLO object detection model accepted to the DMLR Workshop of ICML 2023 <br>
+ 👥 AI for drug discovery projected accepted to WACCBIP [conference](https://www.waccbip.org/research/waccbip-research-conference) <br>
  ⚡ See you at the Deep Learning Indaba 2023!
 <!--
 **cyrilakafia/cyrilakafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
