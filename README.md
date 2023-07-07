@@ -10,7 +10,7 @@
 📫 How to reach me: kwakucyril@gmail.com | [LinkedIn](https://www.linkedin.com/in/cyril-akafia/)
 
 **<p align='center'> News </p>**
- 😄 New [paper](https://arxiv.org/abs/2307.01767) detection abnormalities with YOLO object detection model accepted to the DMLR Workshop of ICML 2023
+ 😄 New [paper](https://arxiv.org/abs/2307.01767) detection abnormalities with YOLO object detection model accepted to the DMLR Workshop of ICML 2023 <br>
  ⚡ See you at the Deep Learning Indaba 2023!
 <!--
 **cyrilakafia/cyrilakafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
