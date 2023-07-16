@@ -7,7 +7,7 @@
 👯 I’m looking to collaborate on computational neuroscience projects to analyse and decode neuronal data. <br>
 ⚡ My newest hobby is chess and I'm currently learning German <br>
 💬 Ask me about AI for Radiology in Ghana, soccer and music. <br>
-📫 How to reach me: kwakucyril@gmail.com | [LinkedIn](https://www.linkedin.com/in/cyril-akafia/)
+📫 Reach me: kwakucyril@gmail.com | [LinkedIn](https://www.linkedin.com/in/cyril-akafia/)
 
 **<p align='center'> News </p>**
  😄 New [paper](https://arxiv.org/abs/2307.01767) detection abnormalities with YOLO object detection model accepted to the DMLR Workshop of ICML 2023 <br>
