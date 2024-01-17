@@ -2,8 +2,8 @@
 
 **<p align="center"> Postgraduate Associate | Biomedical Engnineer | Neuroscience Enthusiast </p>** 
 
-🌱 My broad interests are in the use of computational tools and techniques in healthcare. <br>
-👯 I’m looking to collaborate on computational neuroscience projects to analyse and decode neuronal data. <br>
+🌱 My broad interests are in the use of computational tools and techniques in healthcare <br>
+👯 I’m looking to collaborate on brain-computer interfacing projects to analyse and decode neuronal data. <br>
 📫 Reach me: cyril.akafia@yale.edu | [LinkedIn](https://www.linkedin.com/in/cyril-akafia/)
 
 **<p align='center'> News </p>**
