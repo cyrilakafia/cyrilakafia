@@ -1,6 +1,6 @@
 ### <p align="center"> Hi👋, I'm Cyril Akafia </p>
 
-**<p align="center"> Postgraduate Associate | Biomedical Engnineer | Neuroscience Enthusiast </p>** 
+**<p align="center"> Postgraduate Associate | Biomedical Engineer | Neuroscience Enthusiast </p>** 
 
 🌱 My broad interests are in the use of computational tools and techniques in healthcare <br>
 👯 I’m looking to collaborate on brain-computer interfacing projects to analyse and decode neuronal data. <br>
