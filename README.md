@@ -1,14 +1,6 @@
 ### <p align="center"> Hi👋, I'm Cyril Akafia </p>
 
 **<p align="center"> Postgraduate Associate | Biomedical Engineer | Neuroscience Enthusiast </p>** 
-
-🌱 My broad interests are in the use of computational tools and techniques in healthcare <br>
-👯 I’m looking to collaborate on brain-computer interfacing projects to analyse and decode neuronal data. <br>
-📫 Reach me: cyril.akafia@yale.edu | [LinkedIn](https://www.linkedin.com/in/cyril-akafia/)
-
-**<p align='center'> News </p>**
- 😄 New [paper](https://arxiv.org/abs/2307.01767) detection abnormalities with YOLO object detection model accepted to the DMLR Workshop of ICML 2023 <br>
- 👥 AI for drug discovery projected accepted to WACCBIP [conference](https://www.waccbip.org/research/waccbip-research-conference) <br> 
 <!--
 **cyrilakafia/cyrilakafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
