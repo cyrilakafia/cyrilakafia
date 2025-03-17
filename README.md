@@ -1,6 +1,6 @@
-### <p align="center"> Hi👋, I'm Cyril Akafia </p>
+### <p align="center"> Hi👋, I'm Cyril Selase Kwaku Akafia </p>
 
-**<p align="center"> Postgraduate Associate | Biomedical Engineer | Neuroscience Enthusiast </p>** 
+**<p align="center"> Postgraduate Research Associate at Yale </p>** 
 <!--
 **cyrilakafia/cyrilakafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
